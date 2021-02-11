@@ -1,0 +1,39 @@
+html {
+    background-color: #8B728E;
+    color: white;
+}
+body {
+    margin: 0;
+}
+
+nav {
+    background-color: #16302B;
+    padding: 1.5rem;
+    margin: none;
+}
+
+nav > a {
+    color: white;
+}
+nav > span {
+    margin-left: 2rem;
+}
+
+li {
+    padding: 1rem;
+    margin: 1rem;
+    text-align: center;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 0.35rem;
+}
+li:hover {
+    background-color: #eee;
+}
+ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}

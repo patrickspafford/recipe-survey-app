@@ -1,0 +1,10 @@
+form {
+    text-align: center;
+}
+
+label, input {
+    width: 12rem;
+    padding: 0.5rem;
+    margin: 1rem;
+}
+
